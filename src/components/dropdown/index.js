@@ -751,6 +751,7 @@ export default class Dropdown extends PureComponent {
               <FlatList
                 ref={this.updateScrollRef}
                 data={data}
+                initialNumToRender={data.length}
                 style={styles.scroll}
                 renderItem={this.renderItem}
                 keyExtractor={this.keyExtractor}
