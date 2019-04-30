@@ -113,7 +113,7 @@ Other [TextField][textfield], [TextInput][textinput] and [TouchableWithoutFeedba
 ## Example
 
 ```bash
-git clone https://github.com/n4kz/react-native-material-dropdown
+git clone https://github.com/nejcet/react-native-material-dropdown
 cd react-native-material-dropdown/example
 npm install
 npm run ios # or npm run android
