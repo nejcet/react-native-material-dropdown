@@ -32,7 +32,7 @@ Material dropdown with consistent behaviour on iOS and Android
 ## Installation
 
 ```bash
-npm install --save react-native-material-dropdown
+npm install --save nejcet/react-native-material-dropdown
 ```
 
 ## Usage
